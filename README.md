@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! I'm Greg.
+
+I am a disease ecologist working on a range of projects, spanning within-host ecoimmunology to global host-pathogen ecology. I have two main foci:  
+- [Spatial and social networks and their role in disease transmission and maintenance.](https://www.gregalbery.me/research)  
+- [The Verena Consortium (viralemergence.org): a large-scale collaboration among early- and mid-career researchers to undertand patterns of viral transmission involving animals.](https://viralemergence.org)  
+- [A range of side projects involving deer, badgers, birds, networks, space, disasters, 
+
+For more information, see [my website](https://gregalbery.me)
+
+<img align="centre" src="https://github.com/gfalbery/ViralSharingPhylogeography/raw/master/Display_Map2.png">
 
 <!--
 **gfalbery/gfalbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
