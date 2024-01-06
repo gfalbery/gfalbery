@@ -2,8 +2,8 @@
 
 I'm a disease ecologist working on a range of projects, spanning within-host ecoimmunology to global host-pathogen ecology. I have a few different foci:  
 - [Spatial and social networks and their role in disease transmission and maintenance.](https://www.gregalbery.me/research)  
-- [The Verena Consortium (viralemergence.org): a large-scale collaboration among early- and mid-career researchers to understand patterns of viral transmission involving animals.](https://viralemergence.org)  
-- [A range of side projects involving deer, badgers, birds, networks, space, disasters, and more](https://www.gregalbery.me/other-research)
+- [The Verena Institute (viralemergence.org): an NSF-funded collaborative centre based at Georgetown, working to understand patterns of viral transmission involving animals.](https://viralemergence.org)  
+- [A range of side projects involving deer, badgers, birds, networks, space, disasters, and more](https://www.gregalbery.me/publications)  
 
 For more information, see [my website.](https://gregalbery.me)
 
